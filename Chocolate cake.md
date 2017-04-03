@@ -3,4 +3,5 @@
 * cacao powder
 * baking soda
 * baking powder
-* all wheat floor
+* floor
+* Cholate chips
